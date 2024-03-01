@@ -64,7 +64,7 @@ const updateTab = () => {
 };
 
 const showWinner = (val1, winnerFunction) => {
-  msg.innerHTML = `<p id='msg'>Congratulations, Winner is ${val1}</p><img src='rock-and-roll-party-hard.gif'><br>
+  msg.innerHTML = `<p id='msg'>Congratulations, Winner is ${val1}</p><img src='twerk-twerking.gif'><br>
   <p id='msg'>Better Luck next time,${winnerFunction()}</p>
   <img src="bear-sad.gif" />`;
   msgContainer.classList.remove("hide");
